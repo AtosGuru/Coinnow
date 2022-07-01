@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123123123123",
+    "project_id": "otrix-commerce",
+    "storage_bucket": "otrix-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123123123123:android:4d2a36db224702da6cb6c4",
+        "android_client_info": {
+          "package_name": "com.otrixcommercelaravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123123123123-g2folaog0ck90vhbvbooqthq397qvk5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuko_J-PZLlfM4QehWlJBdqChymAAAAD"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123123123123-g2folaog0ck90vhbvbooqthq397qvk5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

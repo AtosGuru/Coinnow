@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>123123123123-73cjo60tquf4d6g22aoe6upmacg1tvuv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.123123123123-73cjo60tquf4d6g22aoe6upmacg1tvuv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>123123123123-350g85dn51ao80p842bu5qnjmmjjnic0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiWkpoLjN5kZY2cxphsM1v2wCWgWZS7bY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>123123123123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.otrixcommercelaravel</string>
+	<key>PROJECT_ID</key>
+	<string>otrix-commerce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>otrix-commerce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:123123123123:ios:a5e57cfc08ff88df6cb6c4</string>
+</dict>
+</plist>
